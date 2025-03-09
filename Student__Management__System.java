@@ -1,8 +1,6 @@
 import java.sql.*;
 import java.util.Scanner;
-
-public class StudentManagementSystem {
-
+public class Student__Management__System {
     // Database Connection Setup
     private static final String DB_URL = "jdbc:mysql://localhost:3306/sms"; // Replace with your database URL
     private static final String USER = "root";                               // Replace with your MySQL username
