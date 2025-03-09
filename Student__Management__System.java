@@ -34,7 +34,6 @@ public class Student__Management__System {
             e.printStackTrace();
         }
     }
-
     // Method to add a new course
     public static void addCourse(int id, String name, int credits) {
         Connection conn = connect();

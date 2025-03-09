@@ -36,3 +36,4 @@ VALUES
 (1, 102, 'B'),   -- Student 1 enrolled in course 102
 (2, 103, 'A'),   -- Student 2 enrolled in course 103
 (3, 101, 'C');   -- Student 3 enrolled in course 101
+
